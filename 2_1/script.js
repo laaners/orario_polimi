@@ -63,9 +63,14 @@
                 "src": "https://webeep.polimi.it/course/view.php?id=8151"
             },
             {
-                "label": "CALENDARIO",
-                "src": "calendarioFT.pdf"
+                "label": "REGISTRAZIONI PASSATE",
+                "src": "an2dl.html"
+            },
+            {
+                "label": "SITO PASSATO",
+                "src": "http://chrome.deib.polimi.it/index.php?title=Artificial_Neural_Networks_and_Deep_Learning"
             }
+
         ],
         "notes": []
     }
