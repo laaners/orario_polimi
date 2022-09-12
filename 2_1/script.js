@@ -11,6 +11,10 @@
                 "src": "https://webeep.polimi.it/course/view.php?id=7528"
             },
             {
+                "label": "OLD WEBEEP",
+                "src": "https://webeep.polimi.it/course/view.php?id=910"
+            },
+            {
                 "label": "OLD PLAYLIST",
                 "src": "https://www.youtube.com/playlist?list=PLF4udTOd6fde39Es8Bxl0CCMkvvHHCjlR"
             },
@@ -20,7 +24,8 @@
             }
         ],
         "notes": [
-            "PROJECT"
+            "MONDAY 9:30-11:00",
+            "THURSDAY 8:30-10:00"
         ]
     },
     {
