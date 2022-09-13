@@ -92,11 +92,5 @@
         toAppend += "</ul>";
     }
     toAppend += "</ul>";
-    document.body.innerHTML += toAppend;
+    document.querySelector("#list").innerHTML += toAppend;
 });
-
-document.body.innerHTML += `
-<p class="aligncenter">
-    <img src="orario.png" alt="centered image" >
-</p>
-`;
