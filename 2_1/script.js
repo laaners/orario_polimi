@@ -64,16 +64,16 @@
                 "src": ""
             },
             {
-                "label": "WEBEEP",
-                "src": "https://webeep.polimi.it/course/view.php?id=8151"
-            },
-            {
                 "label": "REGISTRAZIONI PASSATE",
                 "src": "an2dl.html"
             },
             {
-                "label": "SITO PASSATO",
+                "label": "SITO",
                 "src": "http://chrome.deib.polimi.it/index.php?title=Artificial_Neural_Networks_and_Deep_Learning"
+            },
+            {
+                "label": "CALENDARIO",
+                "src": "https://boracchi.faculty.polimi.it/teaching/AN2DLCalendar_CS.htm"
             }
 
         ],
