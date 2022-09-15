@@ -20,8 +20,8 @@ body {
 }
 
 .point {
-    width: 30px;
-    height: 30px;
+    width: 2%;
+    height: 6%;
     background-color: yellow;
     border-radius: 50%;
     position: absolute;
