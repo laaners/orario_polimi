@@ -64,18 +64,31 @@
                 "src": ""
             },
             {
-                "label": "REGISTRAZIONI PASSATE",
-                "src": "an2dl.html"
-            },
-            {
                 "label": "SITO",
                 "src": "http://chrome.deib.polimi.it/index.php?title=Artificial_Neural_Networks_and_Deep_Learning"
             },
             {
-                "label": "CALENDARIO",
+                "label": "CALENDARIO E REGISTRAZIONI",
                 "src": "https://boracchi.faculty.polimi.it/teaching/AN2DLCalendar_CS.htm"
+            },
+            {
+                "label": "REGISTRAZIONI PASSATE",
+                "src": "an2dl.html"
             }
-
+        ],
+        "notes": []
+    },
+    {
+        "name": "LOGICA E ALGEBRA 2",
+        "list": [
+            {
+                "label": "WEBEX (SENTINELLI PAOLO)",
+                "src": ""
+            },
+            {
+                "label": "WEBEEP",
+                "src": "https://webeep.polimi.it/course/view.php?id=8556"
+            }
         ],
         "notes": []
     }
