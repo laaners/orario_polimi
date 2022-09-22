@@ -96,9 +96,15 @@
             {
                 "label": "SITO",
                 "src": "https://marconlab.deib.polimi.it/index.php/courses/multimedia-signal-processing/lec"
+            },
+            {
+                "label": "WEBEEP",
+                "src": "https://webeep.polimi.it/course/view.php?id=8910"
             }
         ],
-        "notes": []
+        "notes": [
+            "PRE-APPELLO A NOVEMBRE CIRCA, 1 SETTIMANA DOPO FINE LEZIONI"
+        ]
     }
 ].forEach((course) => {
     let toAppend = `<p>${course.name}</p><ul>`;
