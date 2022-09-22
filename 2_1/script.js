@@ -83,15 +83,19 @@
         "notes": []
     },
     {
-        "name": "LOGICA E ALGEBRA 2",
+        "name": "MULTIMEDIA SIGNAL PROCESSING",
         "list": [
             {
-                "label": "WEBEX (SENTINELLI PAOLO)",
+                "label": "WEBEX (MARCON MARCO)",
                 "src": ""
             },
             {
-                "label": "WEBEEP",
-                "src": "https://webeep.polimi.it/course/view.php?id=8556"
+                "label": "WEBEX (MANDELLI SARA)",
+                "src": ""
+            },
+            {
+                "label": "SITO",
+                "src": "https://marconlab.deib.polimi.it/index.php/courses/multimedia-signal-processing/lec"
             }
         ],
         "notes": []
