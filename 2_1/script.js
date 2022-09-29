@@ -78,6 +78,10 @@
             {
                 "label": "REGISTRAZIONI PASSATE",
                 "src": "an2dl.html"
+            },
+            {
+                "label": "COLAB",
+                "src": "https://drive.google.com/drive/folders/1iKWNyTBk1KMpnnkkjLwccgOFm6EYzsry"
             }
         ],
         "notes": []
