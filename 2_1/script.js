@@ -44,7 +44,9 @@
                 "src": "https://boracchi.faculty.polimi.it/teaching/IACV.htm"
             }
         ],
-        "notes": []
+        "notes": [
+            "25/01 HW DEADLINE FOR 27/01"
+        ]
     },
     {
         "name": "NUMERICAL ANALYSIS",
