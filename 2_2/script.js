@@ -11,7 +11,11 @@
                 "src": "https://webeep.polimi.it/course/view.php?id=8943"
             }
         ],
-        "notes": []
+        "notes": [
+            "8:30-10:00",
+            "16:20-17:50",
+            "End at 6th of April, midterm not additional call"
+        ]
     },
     {
         "name": "NATURAL LANGUAGE PROCESSING",
