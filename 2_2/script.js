@@ -14,7 +14,8 @@
         "notes": [
             "8:30-10:00",
             "16:20-17:50",
-            "End at 6th of April, midterm not additional call"
+            "Ends at 6th of April, midterm not additional call",
+            "22-04 midterm"
         ]
     },
     {
