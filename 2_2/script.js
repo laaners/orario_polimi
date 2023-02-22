@@ -9,6 +9,10 @@
             {
                 "label": "WEBEEP",
                 "src": "https://webeep.polimi.it/course/view.php?id=8943"
+            },
+            {
+                "label": "APPUNTI VECCHI",
+                "src": "https://gitlab.com/polinetwork/CompSc2/-/tree/main/Model%20Identification%20and%20Data%20Analysis/MIDA%201"
             }
         ],
         "notes": [
@@ -42,6 +46,10 @@
             {
                 "label": "WEBEEP",
                 "src": "https://webeep.polimi.it/course/view.php?id=7087"
+            },
+            {
+                "label": "WEBEEP OLD",
+                "src": "https://webeep.polimi.it/course/view.php?id=1122"
             }
         ],
         "notes": []
@@ -56,6 +64,10 @@
             {
                 "label": "WEBEEP",
                 "src": "https://webeep.polimi.it/course/view.php?id=6786"
+            },
+            {
+                "label": "APPUNTI VECCHI",
+                "src": "https://gitlab.com/polinetwork/info3y/-/tree/master/MECCANICA/Lezioni/Prof.%20Sabbioni"
             }
         ],
         "notes": []
